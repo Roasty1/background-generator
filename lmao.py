@@ -1,3 +1,1 @@
-
-TYPE CON>lmo.py
-clear
+print("heyyy")
